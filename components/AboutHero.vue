@@ -1,7 +1,7 @@
 <template>
   <div class="hero conteiner">
     <h1 class="header">About our Team</h1>
-    <p class="snippet">' We are agroup of experts'</p>
+    <p class="snippet">' We are agroup of experts'sudo</p>
     <button class="button btn">Start Exploring</button>
   </div>
 </template>
